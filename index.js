@@ -1,6 +1,6 @@
 
 
-const title = document.querrySelectorAll("h1");
+const title = document.querySelector("h1");
 
    const b = 5;
    let array = [1,2,3,4,5,6,7,8,9]
@@ -11,3 +11,7 @@ const title = document.querrySelectorAll("h1");
 }
  
 
+
+function mostrar(){
+     document.getElementById("caja").style.display = "block";
+}

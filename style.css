@@ -9,6 +9,21 @@ h1{
   font-weight: 200;
   text-decoration: wavy;
 }
+
+
+#caja{
+  display: none;
+  background: black;
+  color: white;
+  width: 500px;
+  height: 200px;
+}
+
+button{
+  background: red;
+  color: white;
+}
+
 aside{
     background-color: tomato;
     width: 800px;
@@ -28,3 +43,4 @@ section > p {
     background-color: teal;
     margin-top: 60px;
 }
+
