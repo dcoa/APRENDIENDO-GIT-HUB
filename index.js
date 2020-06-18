@@ -10,7 +10,11 @@ const title = document.querySelector("h1");
     console.log("tabla del cinco " + tabla);
 }
 
-
+const mew = {
+  name: "mew",
+  type: "legend",
+  region: kanto,
+}
 
 function mostrar(){
      document.getElementById("caja").style.display = "block";
