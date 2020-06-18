@@ -1,4 +1,4 @@
-# APRENDIENDO-GIT-HUB
+# APRENDIENDO-GITHUB
 
 ### comandos basicos
 
@@ -38,6 +38,5 @@ command git checkout -b <banch-name>
 -git pull
 
 -git merge
-Este comando se usa para fusionar una rama con otra rama activa:
--
-git merge <branch-name>
+
+-git merge <branch-name>
