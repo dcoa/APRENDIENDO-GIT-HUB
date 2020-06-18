@@ -43,4 +43,13 @@ section > p {
     background-color: teal;
     margin-top: 60px;
 }
+nav{
+    background-color: lightcoral;
+    cursor: pointer;
 
+}
+nav li{
+    text-decoration: none;
+    display: inline-block;
+    padding: 2px
+}
