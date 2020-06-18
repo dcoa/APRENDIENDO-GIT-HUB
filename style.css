@@ -10,3 +10,15 @@ h1{
   text-decoration: wavy;
 }
 
+#caja{
+  display: none;
+  background: black;
+  color: white;
+  width: 500px;
+  height: 200px;
+}
+
+button{
+  background: red;
+  color: white;
+}
