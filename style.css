@@ -1,5 +1,5 @@
 *{
-    margin:0;
+    margin:20px;
     padding: 0;
     box-sizing: border-box;
 }
@@ -9,4 +9,22 @@ h1{
   font-weight: 200;
   text-decoration: wavy;
 }
-
+aside{
+    background-color: tomato;
+    width: 800px;
+    color: wheat;
+    font-size: 20px;
+    margin-top: 60px;
+}
+section{
+    display: flex;
+    margin-top:25px;    
+}
+h2{
+    font-weight: 900;
+    position: absolute;
+}
+section > p {
+    background-color: teal;
+    margin-top: 60px;
+}
