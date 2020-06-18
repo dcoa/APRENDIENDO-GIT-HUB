@@ -9,9 +9,14 @@ const title = document.querySelector("h1");
     tabla =x*i;
     console.log("tabla del cinco "+tabla)
 }
- 
+
 
 
 function mostrar(){
      document.getElementById("caja").style.display = "block";
 }
+
+const mod = 10 % 6;
+let g = 0;
+
+g = 10;
